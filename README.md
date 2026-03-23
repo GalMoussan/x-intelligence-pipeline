@@ -23,7 +23,7 @@ Runs automatically via GitHub Actions every Sunday at 7:00am UTC.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/squanchy667/x-intelligence-pipeline.git
+git clone https://github.com/GalMoussan/x-intelligence-pipeline.git
 cd x-intelligence-pipeline
 python3 -m venv .venv
 source .venv/bin/activate
@@ -109,7 +109,7 @@ python main.py --layer2 --no-review
 ### 1. Push the repo
 
 ```bash
-git remote add origin https://github.com/squanchy667/x-intelligence-pipeline.git
+git remote add origin https://github.com/GalMoussan/x-intelligence-pipeline.git
 git push -u origin main
 ```
 
