@@ -44,7 +44,7 @@ _(empty at project start)_
 - [x] **T17** — .github/workflows/weekly_pipeline.yml: Sunday 7am UTC cron, runs both layers
 - [x] **T18** — README.md: full setup guide (X Developer account, .env, Gmail app password, deploy to GitHub Actions)
 - [x] **T19** — .gitignore: exclude .env, data/, __pycache__, *.db
-- [ ] **T20** — Final: full pipeline smoke test, commit, push to github.com/squanchy667/x-intelligence-pipeline
+- [x] **T20** — Final: full pipeline smoke test, commit, push to github.com/GalMoussan/x-intelligence-pipeline
 
 ---
 
