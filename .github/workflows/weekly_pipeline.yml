@@ -1,8 +1,8 @@
 name: Weekly AI Pipeline
 
 on:
-  schedule:
-    - cron: "0 7 * * 0"  # Sunday 7:00am UTC
+  # schedule:
+  #   - cron: "0 7 * * 0"  # Sunday 7:00am UTC - DISABLED
   workflow_dispatch:      # allow manual trigger from GitHub UI
 
 jobs:
